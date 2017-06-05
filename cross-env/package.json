@@ -1,0 +1,8 @@
+{
+	"scripts":{
+		"dev":"cross-env NODE_ENV=online node index.js"
+	},
+  "devDependencies": {
+    "cross-env": "^5.0.0"
+  }
+}
